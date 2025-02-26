@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sergey 22 y.o. ⚡ and I'm a software engineer. By my age I have tried myself in many different proggramming spheres (such as embedding engineering, WEB fullstack, ML/DL, software development for the mobile robot) ✨ For now I'm intensively improving myself in WEB and DL, so wait for the new projects from me! ⏰
+I'm Sergey 23 y.o. ⚡ and I'm a software engineer. By my age I have tried myself in many different proggramming spheres (such as embedding engineering, WEB fullstack, ML/DL, software development for the mobile robot) ✨ For now I'm intensively improving myself in WEB and DL, so wait for the new projects from me! ⏰
 
 ### :hammer_and_wrench: Languages and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
